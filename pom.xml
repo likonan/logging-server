@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.swpu</groupId>
-    <artifactId>hotel-server</artifactId>
+    <artifactId>logging-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>user-server</name>
     <description>user-server</description>
@@ -92,12 +92,6 @@
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
             <version>2.9.2</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.github.pagehelper</groupId>
-            <artifactId>pagehelper-spring-boot-starter</artifactId>
-            <version>1.4.7</version>
         </dependency>
 
         <dependency>
